@@ -1,0 +1,6 @@
+################################################################
+#########   desktop & display software installed     ##########
+################################################################
+
+This packeage is to install and enable plasma desktop service for ADK-Linux  
+"systemctl enable --now sddm.service" ### to enable sddm display services!
